@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of Mris Mary Soame wife of Mr. Edmond Soame of Hackney, who departed this life February the 5th, 1669 [i.e. 1670]</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27609</idno><idno type="EEBO-CITATION">14985242</idno>
+  <idno type="VID">206152</idno>
+  <idno type="EEBO-PROQUEST">2240851860</idno>
+  
+            <idno type="STC">Wing O305B</idno>
+            <idno type="OCLC">14985242</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of Mris Mary Soame wife of Mr. Edmond Soame of Hackney, who departed this life February the 5th, 1669 [i.e. 1670]</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint suggest by Wing.</note>
+                  <note>Also includes a second poem entitled "Deaths answer."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Soame, Mary, d. 1670 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:206152:1"/>
+            <head>On the Death of M<seg rend="sup">ris</seg> MARY SOAME, Wife of Mr. Edmond Soame of Hackney, Who departed this Life, <hi>February</hi> the 5th, 1669.</head>
+            <lg>
+               <l>THe dumb-born Child viewing those hands which were</l>
+               <l>Imbru'd in's Parents Blood, cry'd out, <hi>O spare!</hi>
+               </l>
+               <l>Relation me constrains to sympathize,</l>
+               <l>And though a <hi>Corydon</hi>-MUSE, to Poetize.</l>
+               <l>Ah spiteful Death! Of Life to cut the Thread,</l>
+               <l>Before that half the Work was finished.</l>
+               <l>It was thy wont to spare the blooming Rose,</l>
+               <l>And first to fill thy Lap rather with those</l>
+               <l>Which withering dye; or such as blasted be,</l>
+               <l>And which by Natures Laws are doom'd for thee,</l>
+               <l>But this young Lady scarce was in her prime,</l>
+               <l>Her tender years might well claim longer time:</l>
+               <l>'Tis no great Age for Mortals to arrive</l>
+               <l>At fifty years, hers were but twenty five.</l>
+               <l>It is allow'd thee to pluck up the Weeds,</l>
+               <l>Not to destroy the choicest of our Seeds.</l>
+               <l>Alas, what signifies this one poor Lamb,</l>
+               <l>Thine hungry <hi>Skelleton</hi> to fat or cram?</l>
+               <l>Thou Tyrant grim! How couldst thou stop thine Ears,</l>
+               <l>And no Compassion take on Cries and Tears?</l>
+               <l>Why so inexorable! Did it raise</l>
+               <l>Thine envy for her, because of that praise</l>
+               <l>Which, as due Tribute, all were bound to pay</l>
+               <l>Her shining Vertues? Who but knew her way</l>
+               <l>Of acting tow'rd her gracious LORD above,</l>
+               <l>Her Exemplary Duty, and her Love</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her Husband, Parents, Children, and Relations;</l>
+               <l>Scarce to be parallell'd in all these Nations:</l>
+               <l>And how did her two harmless Babes transgress,</l>
+               <l>That thou shouldst also strike them Motherless?</l>
+               <l>A goodly Triumph for thee, cruel Death!</l>
+               <l>In six months time to worry out of breath</l>
+               <l>A tender Lady, yet couldst not provoke</l>
+               <l>Her to impatience by any stroke;</l>
+               <l>Though with strange fits thou storm'dst her, and with pain</l>
+               <l>Didst rack her, all that while she'd scarce complain.</l>
+               <l>Thou ne'er could'st make her to unclasp her hold</l>
+               <l>Of CHRIST, being a Lamb of his own Fold,</l>
+               <l>Which in his Bosom he so safely laid,</l>
+               <l>That of the Lyon she was not afraid.</l>
+               <l>Her Heart on him was so intirely bent,</l>
+               <l>That subtile Satan did forbear to tempt;</l>
+               <l>The worst she spake, midst all extremity,</l>
+               <l>Was, <hi>Come, Lord Jesus; Lo, I dye, I dye.</hi>
+               </l>
+               <l>Needs must her End be Peace, who liv'd so well,</l>
+               <l>But I want room and words her Worth to tell:</l>
+               <l>And to trayl all her Vertues, I shall not</l>
+               <l>Attempt, lest flourishing, my Pen should blot.</l>
+               <l>Yet to epit'mize all, rarely did strand</l>
+               <l>A Vessel richer laden on Death's Sand.</l>
+               <l>When the Great Painter would that Grief descry,</l>
+               <l>Which pass'd his Art, he drew a Vail; So I</l>
+               <l>In silence must adumbrate what my Quill</l>
+               <l>Cannot delineate for want of Skill.</l>
+            </lg>
+            <lg>
+               <l>Well Death, the Cab'net's thine; for thee too good:</l>
+               <l>But yet the Jewel's Christs, bought with his Blood:</l>
+               <l>And thee, our En'my, who dost thus anoy</l>
+               <l>All mortal Race, he will at length destroy.</l>
+            </lg>
+            <div type="poem">
+               <head>Deaths Answer.</head>
+               <lg>
+                  <l>WHat murmur's this I hear? Better be still:</l>
+                  <l>I'm but the Instrument; It was the Will</l>
+                  <l>O'th' Great JEHOVAH: I did but unloose</l>
+                  <l>The Snarl of Life, whereby as with a Noose,</l>
+                  <l>She was with-held from Him, whom to gain-say</l>
+                  <l>Rebellion is; All Pow'rs must Him obey.</l>
+                  <l>What blame's for me, in that I did transpose</l>
+                  <l>Out of your Bosom into his, the Rose?</l>
+                  <l>What loss for her, that she is gone before</l>
+                  <l>Her Friends to Heav'n, and shall henceforth no more</l>
+                  <l>Lie down and wake, as th' Living do, in Sorrow;</l>
+                  <l>Though Creature-Comforts they may steal or borrow.</l>
+                  <l>Talk not of Envy, nor my Cruelty;</l>
+                  <l>I must my Office do impartially.</l>
+                  <l>If to convey her Home, you call i<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wrong;</l>
+                  <l>Well if no worse I deal with you ere long.</l>
+                  <l>If I should heed your Cries, to Tears, or Moan,</l>
+                  <l>I should let <hi>This,</hi> and <hi>That,</hi> and <hi>All,</hi> alone.</l>
+                  <l>If I should yeild to all who do me woo,</l>
+                  <l>I should have <hi>Little,</hi> or <hi>Enough to do.</hi>
+                  </l>
+                  <l>If Gold or Silver me could ere have brib'd,</l>
+                  <l>The Great Ones, now in Atomes, ne'er had dy'd.</l>
+                  <l>I level in the Dust, Mattock and Crown;</l>
+                  <l>Cedars, as well as Shrubs, my Sythe cuts down,</l>
+                  <l>But here's the diff'rence: They who grafted are</l>
+                  <l>In the <hi>True Vine,</hi> though they seem <hi>dead</hi> and <hi>sare</hi>
+                  </l>
+                  <l>In Pruning-time; yet are they so alive,</l>
+                  <l>That when the Sun draws near, they sprout and thrive.</l>
+                  <l>Their Rest to them is blest: But it's far worse</l>
+                  <l>With all that are not ransom'd from the Curse:</l>
+                  <l>They lie a while intombed in their Urn,</l>
+                  <l>And when the Trumpet sounds, must rise to burn.</l>
+                  <l>None dye in dying by the stroke of Fate,</l>
+                  <l>But who want JESUS for their ADVOCATE.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
